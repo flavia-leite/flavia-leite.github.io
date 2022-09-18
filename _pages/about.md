@@ -8,13 +8,19 @@ redirect_from:
   - /about.html
 ---
 ## About
-I am a PhD Candidate in [City & Regional Planning at UC Berkeley](https://ced.berkeley.edu/academics/city-regional-planning).    
-My research revolves mostly around themes of `inequality`, XXXXXXX and **housing**.
+I am a PhD student in the Department of City and Regional Planning at UC Berkeley and a Graduate Student Researcher at the [Terner Center for Housing Innovation](https://ternercenter.berkeley.edu/). Prior to commencing my PhD, I worked in public and private sector organizations for nine years on the topics of housing and land use policy, real estate markets, and urban economic development in Brazil and the U.S. While working full-time during these years, I also pursued my passion for urban and public policy issues as a research associate at the [Schwartz Center for Economic Policy Analysis](https://www.economicpolicyresearch.org/)), and as an independent researcher for the [Lincoln Institute of Land Policy] (https://www.lincolninst.edu/). I was born and raised in São Paulo, Brazil.
 
-xxxxxxxxxxx
-xxxxxxxxxxx
 ## Research Interest
-In previous work at the [Center for Spatial Data Science at the University of Chicago](https://spatial.uchicago.edu/), I examined the sensitivity of **access metrics**, the **co-location** of large chain stores with smaller independent hardware stores, and the **demography of firms** in the United States by using life tables to analyze the probability at which different firm sizes survived or died over time in different geographies. Currently, I am also involved with [Berkeley's DLab](https://dlab.berkeley.edu/) as a Data Science Fellow carrying out R Geospatial and US Census workshops for affiliated members of the University.
+I am interested in exploring the role of land and housing policies in advancing or limiting **wealth inequality**. My current research focus is on how Federal policies of **access to credit** and local policies of **inclusionary zoning** favor or hinder the wealth-building of different social and racial groups in Brazil and the U.S. Within this topic, some subquestions that I plan to explore are: (i) how real estate developers shape, respond and adapt to these public policies; (ii) what is the role of regulation supporting or hindering investors' activities in the formal housing sector?; (iii) is housing financialization an adequate concept to refer to housing policies implemented in the Global South?; (iv) how federal and local policies impact housing informality?
+
+I hope to integrate quantitative/computational methods with qualitative methods to answer these questions.
+
+## Recent and ongoing projects
+I currently work at the Terner Center with Prof. Carolina Reid, analyzing access to credit in BIPOC communities in the U.S, using home mortgage microdata.
+
+Recently, I co-authored [a policy report] (https://reinventalbany.org/wp-content/uploads/2022/07/Reinvent-Albany_SCEPA-Penn-Station-Redevelopment-Report-2022-July-12.pdf) with Bridget Fisher (the Schwartz Center for Economic Policy Analysis), shining a light onto the use of **land value capture** to finance Penn Station's redevelopment plan in NYC.
+
+Also, I've just interviewed in the [Sur-Urbano podcast](https://open.spotify.com/episode/1hD093fkWBYB0S6f2h3epH) Martim Smolka, who has been the director of the Latin American and Caribbean program at the Lincoln Institute of Land Policy.
 
 ## CV
 
