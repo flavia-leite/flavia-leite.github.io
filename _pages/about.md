@@ -18,5 +18,4 @@ In previous work at the [Center for Spatial Data Science at the University of Ch
 
 ##CV
 
-My current CV can be accessed [here] (https://drive.google.com/file/d/1_Vs8G0DBFP1Rl-pIpTePzuPEj3olOU-C/view)
-
+<sub>[Download my CV here](https://drive.google.com/file/d/1_Vs8G0DBFP1Rl-pIpTePzuPEj3olOU-C/view)<sub>
