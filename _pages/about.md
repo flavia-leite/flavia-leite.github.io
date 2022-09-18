@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "Welcome"
+excerpt: "Welcome"
 author_profile: true
 redirect_from: 
   - /about/
@@ -15,3 +15,8 @@ xxxxxxxxxxx
 xxxxxxxxxxx
 ## Research Interest
 In previous work at the [Center for Spatial Data Science at the University of Chicago](https://spatial.uchicago.edu/), I examined the sensitivity of **access metrics**, the **co-location** of large chain stores with smaller independent hardware stores, and the **demography of firms** in the United States by using life tables to analyze the probability at which different firm sizes survived or died over time in different geographies. Currently, I am also involved with [Berkeley's DLab](https://dlab.berkeley.edu/) as a Data Science Fellow carrying out R Geospatial and US Census workshops for affiliated members of the University.
+
+##CV
+
+My current CV can be accessed [here] (https://drive.google.com/file/d/1_Vs8G0DBFP1Rl-pIpTePzuPEj3olOU-C/view)
+
