@@ -16,12 +16,11 @@ I am interested in exploring the role of land and housing policies in advancing 
 I hope to integrate quantitative/computational methods with qualitative methods to answer these questions.
 
 ## Recent and ongoing projects
-I currently work at the Terner Center with Prof. Carolina Reid, analyzing access to credit in BIPOC communities in the U.S, using home mortgage microdata.
+I currently work at the [Terner Center for Housing Innovation](https://ternercenter.berkeley.edu/) with Prof. Carolina Reid, analyzing access to credit in BIPOC communities in the U.S, using home mortgage microdata.
 
 Recently, I co-authored [a policy report](https://reinventalbany.org/wp-content/uploads/2022/07/Reinvent-Albany_SCEPA-Penn-Station-Redevelopment-Report-2022-July-12.pdf) with Bridget Fisher (the Schwartz Center for Economic Policy Analysis), shining a light onto the use of **land value capture** to finance Penn Station's redevelopment plan in NYC.
 
 Also, I've just interviewed in the [Sur-Urbano podcast](https://open.spotify.com/episode/1hD093fkWBYB0S6f2h3epH) Martim Smolka, who has been the director of the Latin American and Caribbean program at the Lincoln Institute of Land Policy.
 
 ## CV
-
-<sub>[Download my CV here](https://drive.google.com/file/d/1_Vs8G0DBFP1Rl-pIpTePzuPEj3olOU-C/view)<sub>
+[Download my CV here](https://drive.google.com/file/d/1_Vs8G0DBFP1Rl-pIpTePzuPEj3olOU-C/view)
