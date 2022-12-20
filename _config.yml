@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Flávia Leite"
+title                    : 
 title_separator          : "-"
 name                     : &name "Flávia Leite"
 description              : &description "personal description"
