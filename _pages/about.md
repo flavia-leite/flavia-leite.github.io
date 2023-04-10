@@ -31,4 +31,4 @@ I hope to integrate quantitative methods, particularly causal inference, and qua
 
 
 ## CV
-Download my CV [here](https://drive.google.com/file/d/1_Vs8G0DBFP1Rl-pIpTePzuPEj3olOU-C/view)
+Download my CV [here](https://drive.google.com/file/d/1xdrFboD3H8LsfcvYnWLFJuR9BOf3ddTZ/view?usp=share_link)
