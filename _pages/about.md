@@ -28,4 +28,4 @@ I am interested in exploring the role of land and housing policies in advancing 
 
 
 ## CV
-Download my CV [here](https://drive.google.com/file/d/1xdrFboD3H8LsfcvYnWLFJuR9BOf3ddTZ/view?usp=share_link)
+Download my CV [here](https://drive.google.com/file/d/1dhQ4iY97FlqWJUj3K_SEmjz88DyTPrMI/view?usp=drive_link)
