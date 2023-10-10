@@ -13,7 +13,7 @@ I am a PhD student in the Department of City and Regional Planning at UC Berkele
 
 
 ## RESEARCH INTEREST
-I am interested in exploring the role of land and housing policies in advancing or limiting **inequality**. My current research focuses on how **access to credit/ homeownership** policies impact wealth-building and the spatial and economic mobility of different populations in Brazil and the US. I am also interested in exploring the limits and potentialities of the concept of **housing financialization** to refer to housing policies implemented in the Global South. Another research interest of mine relates to the implementation of land-based financing instruments both in Brazil and in the US, and their implications for municipal finances, spatial inequality, and economic development. I plan to integrate quantitative methods and qualitative methods to answer these questions.
+I am interested in exploring the role of land and housing policies in advancing or limiting **inequality**. My current research focuses on how **access to credit/ homeownership** policies impact wealth-building and the spatial and economic mobility of different populations in Brazil and the US. I am also interested in exploring the limits and potentialities of the concept of **housing financialization** to refer to housing policies implemented in the Global South. Another research interest of mine relates to the implementation of **land-based financing instruments** in Brazil and the US, and its implication for municipal finances, spatial inequality, and economic development. I plan to integrate quantitative methods and qualitative methods to answer these questions.
 
 
 ## RECENT AND ONGOING PROJECTS
