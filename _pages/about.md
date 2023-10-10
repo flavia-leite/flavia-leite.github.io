@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 ## ABOUT
-I am a PhD student in the [Department of City and Regional Planning at UC Berkeley] (https://ced.berkeley.edu/city). I hold a Bachelor in Economics from the University of São Paulo and a Master’s degree in Public and Urban Policy from The New School. I was born and raised in São Paulo, Brazil. Prior to commencing my PhD, I worked in different public and private sector organizations for nine years on issues of housing and land use policy, real estate, and urban economic development in Brazil and the U.S. During this period I also pursued my passion for public policy as a research associate at the [Schwartz Center for Economic Policy Analysis](https://www.economicpolicyresearch.org/),  as an independent researcher for the [Lincoln Institute of Land Policy](https://www.lincolninst.edu/).  
+I am a PhD student in the [Department of City and Regional Planning at UC Berkeley](https://ced.berkeley.edu/city). I hold a Bachelor in Economics from the University of São Paulo and a Master’s degree in Public and Urban Policy from The New School. I was born and raised in São Paulo, Brazil. Prior to commencing my PhD, I worked in different public and private sector organizations for nine years on issues of housing and land use policy, real estate, and urban economic development in Brazil and the U.S. During this period I also pursued my passion for public policy as a research associate at the [Schwartz Center for Economic Policy Analysis](https://www.economicpolicyresearch.org/),  as an independent researcher for the [Lincoln Institute of Land Policy](https://www.lincolninst.edu/).  
 
 
 
