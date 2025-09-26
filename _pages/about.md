@@ -21,4 +21,4 @@ Another of my research areas relates to the implementation of **urban land-based
 
 
 ## CV
-Download my CV [here](https://drive.google.com/file/d/1ZzIUHuCaTC3aU1Bd11bjGNdrDVpHMjGm/view?usp=sharing)
+Download my CV [here](https://drive.google.com/file/d/1ZzIUHuCaTC3aU1Bd11bjGNdrDVpHMjGm/view?usp=drive_link)
