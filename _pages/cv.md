@@ -6,4 +6,4 @@ nav: true
 nav_order: 2
 ---
 
-[Download my CV](https://drive.google.com/file/d/1CVtad_0CvdGdVYvDH0-rdnX0K4EHJagJ/view?usp=drive_link)
+[Download my CV](https://drive.google.com/file/d/1IUYdJ0SPRPqrRUQD9nwCjIqTrA4Pkrr4/view?usp=drive_link)

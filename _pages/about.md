@@ -6,7 +6,7 @@ subtitle: Postdoctoral Fellow, Harvard's Graduate School of Design (<a href="htt
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic_2026.jpg
   image_circular: false # crops the image to make it circular
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
