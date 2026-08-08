@@ -1,8 +1,8 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: Postdoctoral Fellow, Harvard's Graduate School of Design
+subtitle: Postdoctoral Fellow, Harvard's Graduate School of Design (<a href="https://www.gsd.harvard.edu/people/">GSD</a>)
 
 profile:
   align: right

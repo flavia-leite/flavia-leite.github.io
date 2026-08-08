@@ -2,18 +2,17 @@
 layout: page
 permalink: /publications/
 title: Research
-description: publications and research in progress
 nav: true
 nav_order: 3
 ---
 
-**Published**
+<strong style="color: var(--global-theme-color);">Published</strong>
 
 Fisher, B., **Leite, F.**, & Weber, R. (2022). Value Creation, Capture, and Destruction: Hudson Yards and the False Promise of Self-Financing Mega-Projects. Journal of the American Planning Association, 89:1, 134–145. [Link](https://www.tandfonline.com/doi/abs/10.1080/01944363.2022.2026808)
 
 Fisher, B., & **Leite, F.** (2022). Selling TIF: Positioning Hudson Yards as a project that pays for itself. Cities, 125, 103661. [Link](https://www.sciencedirect.com/science/article/pii/S0264275122001007)
 
-**Research in Progress**
+<strong style="color: var(--global-theme-color);">Research in Progress</strong>
 
 **"Let Delinquency Spiral!": The Governance of Debt among Low-Income Homeowners in Brazil**
 
@@ -23,7 +22,7 @@ Housing debt has long been a precondition for formal homeownership. Brazil's Min
 
 **Housing Wealth as Welfare: Racial and Socioeconomic Disparities in Cash-Out Refinancing**
 
-with Carolina Reid
+with [Carolina Reid](https://ced.berkeley.edu/people/carolina-reid)
 
 _Under Review: Working Paper available upon request_
 
@@ -31,7 +30,7 @@ This paper examines cash-out refinancing as a mechanism through which U.S. borro
 
 **Land Value Capture and Air Rights: Evidence from São Paulo**
 
-with [Gharad Bryan](https://sites.google.com/site/gharadbryan/), Caterina Soto-Vieira, and [Nick Tsivanidis](https://www.nicktsivanidis.com/)
+with [Gharad Bryan](https://sites.google.com/site/gharadbryan/), [Caterina Soto-Vieira](https://www.caterinasotovieira.com/), and [Nick Tsivanidis](https://www.nicktsivanidis.com/)
 
 _Working Paper available upon request_
 
