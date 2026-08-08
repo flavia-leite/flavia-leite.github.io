@@ -1,17 +1,13 @@
 ---
 layout: about
 title: about
-nav: true
-nav_order: 1
 permalink: /
-subtitle: PhD Candidate, <a href="https://ced.berkeley.edu/city">Department of City and Regional Planning, UC Berkeley</a>
+subtitle: Postdoctoral Fellow, Harvard's Graduate School of Design
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>Berkeley, CA</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page

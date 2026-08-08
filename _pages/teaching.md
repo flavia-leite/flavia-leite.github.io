@@ -1,17 +1,17 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: Course materials, schedules, and resources for classes taught.
+title: Teaching
+description: I teach courses in urban planning, policy and politics, housing, economic development, and urban analytics across a range of instructional settings.
 nav: true
 nav_order: 2
 ---
 
-**CYPLAN 130: U.S. Housing, Planning, and Policy** — Summer 2025
-Course Instructor, UC Berkeley
+**Course Instructor**
 
-**CYPLAN 101: Introduction to Urban Data Analytics** — Summer 2023
-Course Instructor, UC Berkeley
+U.S. Housing, Planning, and Policy — Summer 2025 (Undergraduate), UC Berkeley
+
+Introduction to Urban Data Analytics — Summer 2023 (Undergraduate), UC Berkeley
 
 **Guest lecturer in:**
 
