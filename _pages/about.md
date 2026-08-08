@@ -23,7 +23,7 @@ latest_posts:
   limit: 3
 ---
 
-I am an incoming postdoctoral fellow in Real Estate and Urban Development at Harvard's Graduate School of Design. I am also a researcher at Fundação Getúlio Vargas (FGV-Cidades) and a fellow at the Institute for Applied Economic Research (Ipea) in Brazil.
+I am an incoming postdoctoral fellow in Real Estate and Urban Development at Harvard's Graduate School of Design. I am also a researcher at Fundação Getúlio Vargas (<a href="https://fgvcidades.fgv.br/node/343">FGV-Cidades</a>) and a fellow at the Institute for Applied Economic Research (<a href="https://www.ipea.gov.br/portal/categorias/72-estrutura-organizacional/208-dirur-estrutura-organizacional">IPEA</a>) in Brazil.
 
 My research lies at the intersection of housing and land policy, local economic development, and political economy in the Americas.
 

@@ -6,13 +6,13 @@ nav: true
 nav_order: 3
 ---
 
-<strong style="color: var(--global-theme-color);">Published</strong>
+<strong style="color: var(--global-theme-color); font-weight: bold;">Published</strong>
 
 Fisher, B., **Leite, F.**, & Weber, R. (2022). Value Creation, Capture, and Destruction: Hudson Yards and the False Promise of Self-Financing Mega-Projects. Journal of the American Planning Association, 89:1, 134–145. [Link](https://www.tandfonline.com/doi/abs/10.1080/01944363.2022.2026808)
 
 Fisher, B., & **Leite, F.** (2022). Selling TIF: Positioning Hudson Yards as a project that pays for itself. Cities, 125, 103661. [Link](https://www.sciencedirect.com/science/article/pii/S0264275122001007)
 
-<strong style="color: var(--global-theme-color);">Research in Progress</strong>
+<strong style="color: var(--global-theme-color); font-weight: bold;">Research in Progress</strong>
 
 **"Let Delinquency Spiral!": The Governance of Debt among Low-Income Homeowners in Brazil**
 
