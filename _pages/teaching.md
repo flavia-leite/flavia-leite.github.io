@@ -14,8 +14,9 @@ U.S. Housing, Planning, and Policy — Summer 2025 (Undergraduate), UC Berkeley
 
 Introduction to Urban Data Analytics — Summer 2023 (Undergraduate), UC Berkeley
 
-<strong style="color: var(--global-theme-color); font-weight: bold;">Guest lecturer in:</strong>
+<strong style="color: var(--global-theme-color); font-weight: bold;">Class lecturer in:</strong>
 
+- Housing Policy in Brazil, FGV (2026)
 - Community-Based Approaches to Housing: US and International Models, UC Berkeley (2026)
 - Comparative Housing Policy, Eastern Washington University (2024)
 - Spatial Politics of Land, UC Berkeley (2023)
