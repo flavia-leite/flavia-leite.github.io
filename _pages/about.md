@@ -2,7 +2,6 @@
 layout: about
 title: About
 permalink: /
-subtitle: Postdoctoral Fellow, Harvard's Graduate School of Design (<a href="https://www.gsd.harvard.edu/people/">GSD</a>)
 
 profile:
   align: right
@@ -23,9 +22,9 @@ latest_posts:
   limit: 3
 ---
 
-I am an incoming postdoctoral fellow in Real Estate and Urban Development at Harvard's Graduate School of Design. I am also a researcher at Fundação Getúlio Vargas (<a href="https://fgvcidades.fgv.br/node/343">FGV-Cidades</a>) and a fellow at the Institute for Applied Economic Research (<a href="https://www.ipea.gov.br/portal/categorias/72-estrutura-organizacional/208-dirur-estrutura-organizacional">IPEA</a>) in Brazil.
+I am a postdoctoral fellow in Real Estate and Urban Development at <a href="https://www.gsd.harvard.edu/people/">Harvard's Graduate School of Design</a>. I am also a researcher at Fundação Getúlio Vargas (<a href="https://fgvcidades.fgv.br/node/343">FGV-Cidades</a>) and a fellow at the Institute for Applied Economic Research (<a href="https://www.ipea.gov.br/portal/categorias/72-estrutura-organizacional/208-dirur-estrutura-organizacional">IPEA</a>) in Brazil.
 
-My research lies at the intersection of housing policy, real estate finance, and urban governance in the Americas.
+I am an urban policy researcher, with a particular emphasis on housing and urban development finance.
 
 I hold a Ph.D. in City and Regional Planning from the University of California, Berkeley, a Master's degree in Public and Urban Policy from The New School for Social Research, and a Bachelor's degree in Economics from the University of São Paulo.
 
