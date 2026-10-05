@@ -6,4 +6,4 @@ nav: true
 nav_order: 2
 ---
 
-[Download my CV](/assets/pdf/Leite_cv_aug2026.pdf)
+[Download my CV](/assets/pdf/Leite_cv_oct2026.pdf)
