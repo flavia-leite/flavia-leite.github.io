@@ -20,6 +20,22 @@ _Under Review: Working Paper available upon request_
 
 Housing debt has long been a precondition for formal homeownership. Brazil's Minha Casa Minha Vida (MCMV) FAR program, Latin America's largest social housing initiative, appears to disrupt this model by offering "free housing for the poor". Yet, despite not involving mortgages, MCMV generates new financial obligations through its condominium structure, which entangle low-income residents into fees and fines which often accumulate and transform into debt. This article uses a case study of the MCMV FAR program in São Paulo, Brazil, to examine how the governance of non-mortgage debt impacts MCMV residents and determines their ability to benefit from this welfare program. Drawing on scraped data from over a thousand condominium-fee lawsuits, regression analysis, and more than thirty in-depth interviews with condominium managers and public officials, this article examines how private actors (síndicos, condominium managers and private guarantor firms) govern condominium fees delinquency. The paper provides evidence that discretionary condominium management and profit-driven debt collection coexist within these developments, producing outcomes that range from debt tolerance and negotiation to housing dispossession and eviction. It concludes that these private actors function as brokers of the welfare state, ultimately shaping who experiences housing precarity or secures stable housing.
 
+**Beyond Mono-Ethno-Racial Identity: Mixed Identity and Stratification in the U.S. Mortgage Market**
+
+with [Jose Loya](https://luskin.ucla.edu/profile/jose-loya/)
+
+_Under Review: Working Paper available upon request_
+
+Homeownership is a pillar of financial stability and wealth accumulation in the United States. Previous studies have shown the subpar treatment and homeownership experience of minority home seekers and their unequal mortgage credit access. While studies have demonstrated the advantages Whites and Asians experience in the mortgage market, these studies assume the applicant's mono-ethno-racial identity, thus ignoring how mixed-ethno-racial applicants shape access to mortgage credit and the ethno-racial hierarchy in homeownership. This study draws on annual data from the 2023 and 2024 Home Mortgage Disclosure Act (HMDA) to assess mono- and mixed-ethno-racial disparities in mortgage outcomes. We demonstrate that high-cost loans and loan denials are highest among applicants that identify as either full or part Latino or Black. In addition, adverse loan outcomes are higher among Whites and Asians when they also identify as mixed Latino or Black. Implications for the ethno-racial hierarchy and the ethno-racial wealth gap are discussed.
+
+**Ethno-Racial Stratification in U.S. Home Loan Origination Costs and Fees**
+
+with [Jose Loya](https://luskin.ucla.edu/profile/jose-loya/)
+
+_Under Review: Working Paper available upon request_
+
+Homeownership remains a central pathway to wealth accumulation in the United States, yet substantial ethno-racial inequality persists throughout the mortgage process. While prior scholarship has documented differential in access to mortgage credit and treatment of prospective borrowers, less is known about the role of origination fees and costs in shaping stratification. This study employs the 2023 and 2024 Home Mortgage Disclosure Act (HMDA) dataset and multi-level mixed modeling to examine ethno-racial variation in home loan origination fees. The analysis reveals that Latino and Black borrowers incur the highest costs, with origination fees averaging approximately $875 and $950 more than Whites, representing 14 percent and 15 percent more than White borrowers. In contrast, Asian borrowers pay the lowest costs, averaging about $670, or roughly 10 percent less than Whites. These findings underscore the persistent financial disparities embedded within mortgage lending and highlight the implications of origination fee differentials for both homeownership access and broader patterns of ethno-racial stratification.
+
 **Housing Wealth as Welfare: Racial and Socioeconomic Disparities in Cash-Out Refinancing**
 
 with [Carolina Reid](https://ced.berkeley.edu/people/carolina-reid)
@@ -39,6 +55,10 @@ Cities across the developing world struggle to finance infrastructure and manage
 **Carrying Balances, Balancing Care: The Limits of Housing Decommodification under the Brazilian Debtfare State**
 
 with [Carter Koppelman](https://www.lse.ac.uk/people/carter-koppelman)
+
+_Working Paper available upon request_
+
+**The Cost of Free Housing: Housing Affordability and Exits in Brazil's Social Housing Program**
 
 _Working Paper available upon request_
 
